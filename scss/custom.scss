@@ -1,5 +1,10 @@
 $theme-colors: (
-        "primary": #096ef3,
-        "danger": #ff4136
+        "primary": #2944fc,
+        "danger": #ff4136,
+        "colornav" : #1c1c1c
 );
+$body-bg: #262626;
+$body-color: #ffffff;
+$card-bg: #1c1c1c;
+$navbar-dark-color: #ffffff;
 @import "../node_modules/bootstrap/scss/bootstrap";
