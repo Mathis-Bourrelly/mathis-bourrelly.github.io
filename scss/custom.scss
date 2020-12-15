@@ -1,10 +1,16 @@
 $theme-colors: (
-        "primary": #2944fc,
+        "primary": #5faaff,
         "danger": #ff4136,
         "colornav" : #1c1c1c
 );
+$close-color: #ffffff;
+$modal-header-border-color: #ffffff;
+$modal-content-bg: #262626;
 $body-bg: #262626;
 $body-color: #ffffff;
 $card-bg: #1c1c1c;
 $navbar-dark-color: #ffffff;
+$navbar-dark-active-color: #5faaff;
+$navbar-dark-brand-color :#ffffff;
+$nav-tabs-link-active-color: #ffffff;
 @import "../node_modules/bootstrap/scss/bootstrap";
